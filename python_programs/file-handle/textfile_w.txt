@@ -1,0 +1,2 @@
+written in write mode A
+written in write mode B
